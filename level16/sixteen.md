@@ -1,3 +1,4 @@
+
 # Activity 16: Introduction to @apply
 
 **Objective:** Learn the basics of the `@apply` directive to extract component classes.
